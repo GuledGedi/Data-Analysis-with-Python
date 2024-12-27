@@ -1,14 +1,14 @@
 # Python-Exercises
 
-Titanic Dataset Analysis 
+**Titanic Dataset Analysis**
 
-Overview
+**Overview**
 
 A comprehensive data analysis program that processes and visualizes the Titanic dataset, demonstrating advanced Python data manipulation and statistical analysis capabilities.
 
-Key Features
+**Key Features**
 
-Data Cleaning & Preprocessing
+**Data Cleaning & Preprocessing**
 
 Handles missing values using intelligent imputation
 
@@ -18,7 +18,7 @@ Implements custom functions for data cleaning
 
 Removes outliers using statistical methods
 
-Statistical Analysis
+**Statistical Analysis**
 
 Calculates percentiles and correlation coefficients
 
@@ -28,7 +28,7 @@ Performs outlier detection using quartile methods
 
 Handles data segmentation and grouping
 
-Data Visualization
+**Data Visualization**
 
 Creates scatter plots for age vs. fare analysis
 
@@ -38,7 +38,7 @@ Implements custom plotting parameters
 
 Utilizes matplotlib for clear data representation
 
-Technical Skills Demonstrated
+**Technical Skills Demonstrated**
 
 Python Programming
 
@@ -50,7 +50,7 @@ Custom function development
 
 Lambda functions and apply methods
 
-Data Science Skills
+**Data Science Skills**
 
 Statistical analysis techniques
 
@@ -60,7 +60,7 @@ Feature engineering
 
 Missing value imputation strategies
 
-Best Practices
+**Best Practices**
 
 Modular code structure
 
@@ -70,10 +70,8 @@ Clear documentation
 
 Error handling
 
-Libraries Used
+**Libraries Used**
 
-python
-
-Copy
 pandas, numpy, matplotlib, scipy.stats
+
 This project showcases my ability to handle real-world data challenges while implementing efficient and scalable solutions using Python's data science ecosystem.
